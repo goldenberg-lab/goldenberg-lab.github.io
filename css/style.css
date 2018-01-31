@@ -35,8 +35,8 @@
 	}
 
 	a {
-		color: #82b440;
-		text-decoration: underline;
+		color: darkslategray;
+		text-decoration:none;
 	}
 
 	strong, b {
@@ -712,7 +712,7 @@ margin: 0em auto 1em auto;
 }
 
 .wrapper.style7 a {
-    font-weight: bold;
+    font-weight: 500;
     text-decoration: none;
 }
 
