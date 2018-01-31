@@ -1,0 +1,9 @@
+Dropout Feature Ranking for Deep Learning Models
+CH Chang, L Rampasek, A Goldenberg
+arXiv preprint arXiv:1712.08645
+
+Dr. VAE: Drug Response Variational Autoencoder
+L Rampasek, A Goldenberg
+arXiv preprint arXiv:1706.08203
+
+L. Stefalnik, L. Erdman, S.H. Ameis, G. Foussias, B. Mulsant, T. Behdinan, A. Goldenberg, L.J. O’Donnell, A.N. Voineskos (2017) Brain-Behavior Participant Similarity Networks Among Youth and Emerging Adults with Schizophrenia Spectrum, Autism Spectrum, or Bipolar Disorder and Matched Controls. Neuropsychopharmacology. Accepted
