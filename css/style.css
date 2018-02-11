@@ -616,7 +616,12 @@ header.major a{
 .wrapper.style4 .container1 {
     padding-left: 0em;
     padding-right: 2em;
-    margin-top: 75px;
+    margin-top: 8em;
+}
+
+.wrapper.style4 .container1 ul {
+    text-align: left;
+    margin-left: 10em;
 }
 
 .wrapper.style4 .text {
