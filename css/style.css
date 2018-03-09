@@ -586,6 +586,10 @@ header.major a{
 				font-weight: 400;
 			}
 
+            .wrapper.style2 .image.fit img:hover {
+                border: solid 3px black;
+            }
+
 		.wrapper.style3 {
 			padding-bottom: 6em;
 			background: #334d4d;
