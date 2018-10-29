@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Patient Heterogeneity</title>
+		<title>Cardiac Arrest Prediction</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -57,16 +57,17 @@
 			<div class="wrapper style6">
 				<section class="container">
 					<header class="major">
-						<h2>Patient Heterogeneity</h2>
+						<h2>Cardiac Arrest Prediction</h2>
                     </header>
 						<div class="12u">
-							<img src="images/portfolio/patient_het_big.png" alt="">
+							<img src="images/portfolio/cardiac_arrest_big.png" alt="">
                         </div>
                     <div class="text-center" style="color:#000">
-                    Identifying genes associated with complex human diseases is one of the main challenges of human genetics and computational medicine. To increase the power of identifying genes associated with diseases and to account for other potential sources of protein function aberrations, we proposed a novel factor-graph based model, where much of the biological knowledge is incorporated through factors and priors. Our extensive simulations show that our method has superior sensitivity and precision compared to variant aggregating and differential expression methods.
+                    Cardiac arrest is a rare but devastating event in critically ill children associated with death, disability and significant healthcare costs. When a cardiac arrest occurs, the limited interventions available to save patient lives are associated with poor patient outcomes. The most effective way of improving patient outcomes and decreasing the associated healthcare costs would be to prevent cardiac arrest from occurring. This observation highlights the importance of prediction models that consistently identify high risk individuals and assist health care providers in providing targeted care to the right patient at the right time. In this paper, we took advantage of the power of convolutional neural networks (CNN) to extract information from high resolution temporal data, and combine this with a recurrent network (LSTM) to model time dependencies that exist in these temporal signals. We trained this CNN+LSTM model on high-frequency physiological measurements that are recorded in the ICU to facilitate early detection of a potential cardiac arrest at the level of the individual patient. Our model results in an F1 value of .61 to .83 across six different physiological signals, the most predictive single signal being the heart rate. To address the issue of instances of missing data in the recorded physiological signals, we have also implemented an ensemble model that combines predictors for the signals that were collected for a given patient. The ensemble achieves .83 average F1 score on a held-out test set, on par with the best performing signal, even in the absence of a number of signals. The results of our model are clinically relevant. We intend to explore implementation of this model at the point of care as a means of providing precise, personalized, predictive care to an at-risk cohort of patients. 
+
                     </div>
                 </section>
-                <a href="http://arxiv.org/abs/1508.07527">link to paper</a>
+                <a href="https://www.researchgate.net/publication/327043038_Prediction_of_Cardiac_Arrest_from_Physiological_Signals_in_the_Pediatric_ICU">link to paper</a>
                 </div>
         </div>
                     
