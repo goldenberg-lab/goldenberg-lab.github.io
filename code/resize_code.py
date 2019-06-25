@@ -3,7 +3,7 @@
 import PIL
 from PIL import Image
 import os
-os.chdir('/home/ben/Desktop/lab_pics')
+os.chdir('/home/ben/Desktop/pics')
 
 
 for number in range(2)[1:]:
