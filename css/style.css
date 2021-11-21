@@ -854,7 +854,7 @@ margin: 0em auto 1em auto;
 	#banner {
 		padding: 6em 0em 3em 0em;
 		text-align: center;
-        height: 540px;
+        height: 500px;
 		text-transform: uppercase;
         line-height: 10em;
 		color: white;
@@ -881,7 +881,7 @@ margin: 0em auto 1em auto;
 			font-size: 4em;
             color: goldenrod;
 			font-weight: 900;
-            margin-top: 3.8em;
+            margin-top: 4.3em;
 	        transform: perspective(400px) rotateX(28deg);
 		}
 
