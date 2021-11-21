@@ -548,7 +548,7 @@ header.major a{
 			background: #222222 url(../images/lab_2021.jpg) no-repeat;
             background-color: #fff;
             background-size: cover;
-            height: 600px;
+            height: 610px;
 
 		}
 
@@ -879,7 +879,7 @@ margin: 0em auto 1em auto;
 			display:inline-block;
 			text-transform: uppercase;
 			font-size: 4em;
-            color: darkgoldenrod;
+            color: goldenrod;
 			font-weight: 900;
             margin-top: 3.8em;
 	        transform: perspective(400px) rotateX(28deg);
