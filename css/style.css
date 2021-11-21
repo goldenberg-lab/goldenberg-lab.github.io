@@ -77,7 +77,7 @@
 	h1, h2, h3, h4, h5, h6{
 		color: inherit;
 		font-weight: 700;
-        
+
 	}
 
 
@@ -85,7 +85,7 @@
 		color: inherit;
 		font-weight: 700;
         display: block;
-        
+
 	}
 
 
@@ -96,7 +96,7 @@
 		font-weight: 400;
         display: block;
         margin-left: 100px;
-        
+
 	}
 
 
@@ -107,7 +107,7 @@
 		font-weight: 400;
         display: block;
         margin-left: 300px;
-        
+
 	}
 
 
@@ -262,7 +262,7 @@ header.major a{
 	.image {
 		position: relative;
         height: auto;
-        
+
 	}
 
 		.image.fit {
@@ -545,7 +545,7 @@ header.major a{
 
 		.wrapper.style1 {
 			padding: 0em;
-			background: #222222 url(../images/LabPhoto_new.png) no-repeat;
+			background: #222222 url(../images/lab_2021.jpg) no-repeat;
             background-color: #fff;
             background-size: cover;
             height: 600px;
@@ -554,7 +554,7 @@ header.major a{
 
 		.wrapper.style2 {
 			background: #f2f2f2;
-      
+
 		}
 
 			.wrapper.style2 .major {
@@ -563,7 +563,7 @@ header.major a{
 
 				.wrapper.style2 .major h2 {
 					display: block;
-			
+
 					letter-spacing: 1px;
 					line-height: 1em;
 					text-transform: uppercase;
@@ -612,7 +612,7 @@ header.major a{
 		.wrapper.style4 {
 			background: white;
             text-align: center;
-    
+
 		}
 .wrapper.style4 .container {
     padding-left: 0em;
@@ -670,7 +670,7 @@ margin-top: 10px;
 .wrapper.style6 {
 			background: lightgrey;
             text-align: center;
-    
+
 		}
 .wrapper.style6 .container {
     padding-left: 6em;
@@ -701,7 +701,7 @@ margin: 0em auto 1em auto;
 .wrapper.style7 {
 			background: white;
             text-align: center;
-    
+
 		}
 .wrapper.style7 .container {
     padding-left: 6em;
@@ -714,7 +714,7 @@ margin: 0em auto 1em auto;
     text-align: left;
     font-size: 1em;
     font-weight: 300;
-    
+
 }
 
 .wrapper.style7 .image {
@@ -925,13 +925,13 @@ margin: 0em auto 1em auto;
 
 		#main #content .major, #main #sidebar .major {
 			text-align: left;
-            
+
 		}
 
 		#main #sidebar section {
 			margin-top: 4em;
             text-align: left;
-            
+
 		}
 
 			#main #sidebar section:first-child {
@@ -1020,7 +1020,7 @@ margin: 0em auto 1em auto;
 		letter-spacing: 2px;
 		text-transform: uppercase;
 		font-weight: 700;
-        
+
 	}
 
 /*Modals*/
@@ -1032,7 +1032,7 @@ margin: 0em auto 1em auto;
         bottom: 0;
         left: 0;
         padding-top: 30px;
-        background-color: rgb(0,0,0);    
+        background-color: rgb(0,0,0);
         background: rgba(0,0,0,0.4);
         color: #7c8081;
         line-height: 1.5em;
@@ -1077,7 +1077,7 @@ margin: 0em auto 1em auto;
         border: 1px;
     }
 
-    .close:hover { 
+    .close:hover {
         color: #606061;
         line-height: 50px;
         position: absolute;
@@ -1093,8 +1093,8 @@ margin: 0em auto 1em auto;
         border: 1px;
     }
 
-/* Image hover */ 
-        
+/* Image hover */
+
             .imgWrap {
                 position: relative;
                 height: 200px;
@@ -1102,7 +1102,7 @@ margin: 0em auto 1em auto;
                 display: block;
                 margin: 0 auto 4em auto;
             }
-        
+
             .imgDescription {
               position: absolute;
               padding: 0.5em;
